@@ -31,5 +31,13 @@ main{
     margin-top: 50px;
 }
 table{
-    fo
+    font-size: 1.2em;
+    margin-bottom: 10px;
+    border-spacing: 0;
+}
+caption{
+    margin-bottom: 10px;
+    font-size: 0.9em;
+    font-weight: bold;
+    text-align: left;
 }
