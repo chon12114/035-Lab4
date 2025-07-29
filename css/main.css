@@ -22,7 +22,7 @@ a{
 li{
     list-style: none;
     float: left;
-    margin: 0 05px;
+    margin: 0 85px;
 }
 .menu{
     padding: 0px 10px;
@@ -50,5 +50,5 @@ section{
     border: 2px solid #fff;
 }
 #jupiter{
-    b
+    background-image: url(../images/Jupiter.jpg);
 }
